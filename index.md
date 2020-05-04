@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Take the Lead Fantasy
 
 You can use the [editor on GitHub](https://github.com/joehallal/TeamPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
