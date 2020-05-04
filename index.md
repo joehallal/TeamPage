@@ -1,12 +1,12 @@
 ## Take the Lead Fantasy
 
+You can use the [editor on GitHub](https://github.com/joehallal/TeamPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![](https://github.com/joehallal/TeamPage/blob/master/joe_profile.jpg)
-
-
 ### Markdown
 
-My name is Joe Hallal and I am a graduating senior in Computer Science at GW. After graduation I will work as a Software Engineer for Nextuple Inc, a startup company based out of Greater Boston. I hope to continue to develop my skills as a programmer and learn more about the field of Computer Science. I am passionate about web development, algorithms, and software. 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
