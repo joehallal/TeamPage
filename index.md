@@ -1,8 +1,8 @@
 ## Take the Lead Fantasy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ![](https://media-exp1.licdn.com/dms/image/C4E03AQHZDBPfaEnOZQ/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=-ERyMUQP6a6JX4arN3dHe0XB7GQib6brl1SGnlp28ik)
+
+My name is Joe Hallal and I am a graduating senior in Computer Science at GW. After graduation I will work as a Software Engineer for Nextuple Inc, a startup company based out of Greater Boston. I hope to continue to develop my skills as a programmer and learn more about the field of Computer Science. I am passionate about web development, algorithms, and software. 
 
 ### Markdown
 
