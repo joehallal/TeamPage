@@ -11,7 +11,6 @@ My name is Mihir Mankad and I am a graduating senior at GW studying Computer Sci
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![](https://github.com/joehallal/TeamPage/blob/master/joe_profile.jpg)
 ```markdown
 Syntax highlighted code block
 
