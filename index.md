@@ -2,7 +2,7 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![](https://github.com/joehallal/TeamPage/blob/master/joe_profile.jpg)
+![](https://media-exp1.licdn.com/dms/image/C4E03AQHZDBPfaEnOZQ/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=-ERyMUQP6a6JX4arN3dHe0XB7GQib6brl1SGnlp28ik)
 
 ### Markdown
 
