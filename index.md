@@ -6,6 +6,8 @@ My name is Joe Hallal and I am a graduating senior in Computer Science at GW. Af
 
 All of Joe Hallal's Assignments: https://github.com/joehallal/TeamPage/tree/master/Joe_Hallal_Assignments
 
+![](https://github.com/joehallal/TeamPage/blob/master/mihir_profile.jpg?raw=true)
+
 My name is Mihir Mankad and I am a graduating senior at GW studying Computer Science. Once I graduate,  will be working as a Software Engineer for Cerner in Kansas City Missouri. I'm excited for the opportunity to further myself as a computer scientist. I have a passion for for sports and video games, and hope to at some point incorporate those into my occupation. I have no long term dreams at the moment, but I just want to continue to develop my skills as a computer scientist no matter what route I take. 
 
 ![](https://media-exp1.licdn.com/dms/image/C5103AQG3-w3lSKasKg/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=90oKX-bBOs9Q_5MSLx33jBrFEuHkRYksRpzxA8Mv9WU)
