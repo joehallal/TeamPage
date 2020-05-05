@@ -13,3 +13,8 @@ My name is Mihir Mankad and I am a graduating senior at GW studying Computer Sci
 ![](https://media-exp1.licdn.com/dms/image/C5103AQG3-w3lSKasKg/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=90oKX-bBOs9Q_5MSLx33jBrFEuHkRYksRpzxA8Mv9WU)
 
 My name is Eric Wendt and I am a graduating senior at GWU studying computer science. After graduation, I will be working for a software company in Virginia. I look forward to growing my skills so I can build tools to help people. 
+
+
+
+Link to final video:
+https://drive.google.com/file/d/1pulcR_FalPirtGz63bXJ_IoRUoFMmUA8/view?usp=sharing
