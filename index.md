@@ -6,7 +6,7 @@
 
 My name is Joe Hallal and I am a graduating senior in Computer Science at GW. After graduation I will work as a Software Engineer for Nextuple Inc, a startup company based out of Greater Boston. I hope to continue to develop my skills as a programmer and learn more about the field of Computer Science. I am passionate about web development, algorithms, and software. 
 
-All of Joe Hallal's Assignments: https://github.com/joehallal/TeamPage/tree/master/Joe_Hallal_Assignments
+[All of Joe Hallal's Assignments](https://github.com/joehallal/TeamPage/tree/master/Joe_Hallal_Assignments)
 
 ![](https://github.com/joehallal/TeamPage/blob/master/mihir_profile.jpg?raw=true)
 
